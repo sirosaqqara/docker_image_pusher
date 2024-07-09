@@ -1,1 +1,2 @@
 halohub/halo:2.17
+mysql:8.1.0
